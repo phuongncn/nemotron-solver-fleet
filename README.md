@@ -6,7 +6,7 @@ This is the deterministic solver fleet that cracked **9,500 out of 9,500** train
 
 The solvers found the hidden rule behind each puzzle. The generators turned those rules into verbose Chain-of-Thought that teaches a model *how to search*, not just *what to answer*. The gates verified every output before it touched the training set.
 
-**Result: Private 0.86 · Public 0.85 · Rank 165/4,354 · Silver Medal**
+**Result: Private 0.86 · Public 0.85 · Rank 166/4,354 · Silver Medal**
 
 ---
 
